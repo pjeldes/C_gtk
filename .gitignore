@@ -1,3 +1,5 @@
 .vscode
 build
 libs/c/build
+libs/cairo_drawing_example/build
+libs/two_buttons_example

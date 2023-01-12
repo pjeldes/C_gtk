@@ -4,5 +4,6 @@
 #include <stdbool.h>
 
 void println(char* string);
+void mainApp(void);
 
 
